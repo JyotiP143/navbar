@@ -50,7 +50,7 @@ const App = ({ Portfolio }) => {
             <a href="#skills" className="hover:text-purple-600 transition-colors">
               Skills           </a>
             <a href="#experience" className="hover:text-purple-600 transition-colors">
-              Experience
+              Experienceeee
             </a>
             <a href="#projects" className="hover:text-purple-600 transition-colors">
               Projects
