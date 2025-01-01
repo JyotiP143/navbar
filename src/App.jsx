@@ -48,7 +48,7 @@ const App = ({ Portfolio }) => {
               About
             </a>
             <a href="#skills" className="hover:text-purple-600 transition-colors">
-              Skills
+              Skillshi
             </a>
             <a href="#experience" className="hover:text-purple-600 transition-colors">
               Experience
